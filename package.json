@@ -4,16 +4,15 @@
     "description": "A simple command-line application to generate SVG logos.",
     "main": "index.js",
     "scripts": {
-      "start": "node index.js",
-      "test": "jest"
+        "start": "node index.js",
+        "test": "jest"
     },
-    "author": "Your Name",
+    "author": "Charles Wilson",
     "license": "MIT",
     "dependencies": {
-      "inquirer": "^9.0.0"
+        "inquirer": "^8.2.4"
     },
     "devDependencies": {
-      "jest": "^29.0.0"
+        "jest": "^24.9.0"
     }
-  }
-  
+}
